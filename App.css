@@ -1,0 +1,26 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  color: #007bff;
+}
+
+input.form-control {
+  font-size: 18px;
+  padding: 10px;
+}
+
+button.btn {
+  font-size: 18px;
+}
+
+.alert {
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.spinner-border {
+  margin-right: 10px;
+}
